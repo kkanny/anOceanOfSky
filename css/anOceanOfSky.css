@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700,400);
+* {
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+
+html,
+body {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
